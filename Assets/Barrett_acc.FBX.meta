@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: e4ffa53539598cb4e8490211bd17e0ec
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrett_Bipod
+    100004: Barrett_bolt
+    100006: Barrett_shell
+    100008: Barrett_trigger
+    100010: Mag_Bullets
+    100012: Magazine
+    100014: Mesh_0019
+    100016: Mesh_0022
+    100018: Mesh_0023
+    100020: Mesh_0024
+    100022: Mesh_0025
+    100024: Mesh_0026
+    400000: //RootNode
+    400002: Barrett_Bipod
+    400004: Barrett_bolt
+    400006: Barrett_shell
+    400008: Barrett_trigger
+    400010: Mag_Bullets
+    400012: Magazine
+    400014: Mesh_0019
+    400016: Mesh_0022
+    400018: Mesh_0023
+    400020: Mesh_0024
+    400022: Mesh_0025
+    400024: Mesh_0026
+    2300000: Barrett_Bipod
+    2300002: Barrett_bolt
+    2300004: Barrett_shell
+    2300006: Barrett_trigger
+    2300008: Mag_Bullets
+    2300010: Magazine
+    2300012: Mesh_0019
+    2300014: Mesh_0022
+    2300016: Mesh_0023
+    2300018: Mesh_0024
+    2300020: Mesh_0025
+    2300022: Mesh_0026
+    3300000: Barrett_Bipod
+    3300002: Barrett_bolt
+    3300004: Barrett_shell
+    3300006: Barrett_trigger
+    3300008: Mag_Bullets
+    3300010: Magazine
+    3300012: Mesh_0019
+    3300014: Mesh_0022
+    3300016: Mesh_0023
+    3300018: Mesh_0024
+    3300020: Mesh_0025
+    3300022: Mesh_0026
+    4300000: Mesh_0019
+    4300002: Barrett_shell
+    4300004: Barrett_Bipod
+    4300006: Mesh_0023
+    4300008: Mesh_0024
+    4300010: Mesh_0022
+    4300012: Mesh_0026
+    4300014: Mesh_0025
+    4300016: Magazine
+    4300018: Mag_Bullets
+    4300020: Barrett_trigger
+    4300022: Barrett_bolt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
