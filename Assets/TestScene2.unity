@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Name: 
   axes: 1
   sensitivityX: 15
-  sensitivityY: 0
+  sensitivityY: 15
   minimumX: -360
   maximumX: 360
   minimumY: 0
@@ -301,7 +301,7 @@ Transform:
   m_PrefabInternal: {fileID: 515204288}
   m_GameObject: {fileID: 355379981}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1022.76892, y: 31.734745, z: 1121.81824}
+  m_LocalPosition: {x: 1198.5022, y: 34.8079529, z: 1040.99304}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 912222831}
@@ -316,15 +316,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 1022.76892
+      value: 1198.5022
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 31.734745
+      value: 34.8079529
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1121.81824
+      value: 1040.99304
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalRotation.x
