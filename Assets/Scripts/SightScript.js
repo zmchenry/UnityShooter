@@ -1,15 +1,15 @@
 ﻿var gun : Transform;
- var nextPos = 0.0;
+ var nextPos = 0.1116717;
  var nextField = 40.0;
- var nextPos2 = -0.2;
+ var nextPos2 = -0.2483233;
  var dampVelocity = 0.4;
  var dampVelocity2 = 0.4;
  var dampVelocity3 = 0.4;
  
  function Update () {
-    var newPos = Mathf.SmoothDamp(gun.transform.localPosition.x, nextPos, dampVelocity, .3);
-    var newField = Mathf.SmoothDamp(Camera.main.fieldOfView, nextField, dampVelocity2, .3);
-    var newPos2 = Mathf.SmoothDamp(gun.transform.localPosition.y, nextPos2, dampVelocity3, .3);
+    var newPos = Mathf.SmoothDamp(gun.transform.localPosition.x, nextPos, dampVelocity, .6);
+    var newField = Mathf.SmoothDamp(Camera.main.fieldOfView, nextField, dampVelocity2, .6);
+    var newPos2 = Mathf.SmoothDamp(gun.transform.localPosition.y, nextPos2, dampVelocity3, .6);
  
     gun.transform.localPosition.x = newPos;
     gun.transform.localPosition.y = newPos2;
@@ -17,9 +17,9 @@
  
     if (Input.GetButton("Fire2")) {
         //adjust viewpoint and gun position
-        nextField = 40.0;
-        nextPos = 0.0;
-        nextPos2 = -0.2;
+        nextField = 20.0;
+        nextPos = -0.1104335;
+        nextPos2 = -0.1604617;
  
         //slow down turning and movement speed
         GetComponent(CharacterMotor).movement.maxForwardSpeed = 1.5;
@@ -29,8 +29,8 @@
     } else {
         //adjust viewpoint and gun position
         nextField = 60.0;
-        nextPos = 0.5;
-        nextPos2 = -0.4;
+        nextPos = 0.1116717;
+        nextPos2 = -0.2483233;
  
         //speed up turning and movement speed
         GetComponent(CharacterMotor).movement.maxForwardSpeed = 10;

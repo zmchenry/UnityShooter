@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShootingScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SightScript.js">
     <Files>
-      <File FileName="Assets\Scripts\ShootingScript.js" Line="29" Column="12" />
+      <File FileName="Assets\Scripts\SightScript.js" Line="22" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
